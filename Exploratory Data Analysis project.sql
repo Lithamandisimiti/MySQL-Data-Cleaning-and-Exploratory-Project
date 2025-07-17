@@ -1,4 +1,4 @@
--- Exploratory Data Analysis 
+-- Exploratory Data Analysis
 
 -- to explore different aspects of the data we can use numerous queries 
 
